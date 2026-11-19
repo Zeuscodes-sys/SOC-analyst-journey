@@ -19,7 +19,10 @@ Entry-level SOC Analyst (Tier 1), then detection engineering / cloud / AI securi
 |-----|------|-------|-------|
 | 1 | Nov 16 | Networking fundamentals | |
 | 2 | Nov 17 | Core protocols | |
-| 3 | Nov 18 | Wireshark | |
+| 3 | Nov 18 | Wireshark setup and first capture | day01-wireshark.md |
+| 4 | Nov 19 | Windows event logs (4625, 4624) | day02-windows-event-logs.md |
+|   | Nov 19 | Process creation (4688) and Sysmon | day03-process-creation-and-sysmon.md |
+
 
 ## Tools
 Wireshark, Splunk, Wazuh, TryHackMe, LetsDefend
